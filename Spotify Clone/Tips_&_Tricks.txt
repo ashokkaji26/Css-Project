@@ -1,0 +1,10 @@
+1. How to inspect any webpage which has'nt bydefault inspect permission??
+-->first copy that page and in new tab, open inspect window and paste that copied page in search bar, now you can inspect webpage.
+
+2. How to check the actual colors of any websites ??
+--> take the screenshots of webpages you want to know the colors of and paste it in any color picker website.
+
+3. Quirksmode.org :- to design sliders/progress bars.
+
+
+4. To design webpages think and use box models. 

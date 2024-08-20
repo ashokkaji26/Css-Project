@@ -1,0 +1,26 @@
+1. Overflow Css Property :- Jab hmare pass container ke height se jyada content hota h, us case me content box se 
+                            bahar jane lagta h, use Overflow kahte h, aur us Overflow ko control karne ke liye
+                            hmare pass ek scroll bar hota h, jiske help se hm baki contents ko v scroll karke dekh sakte h.
+
+                   --->  1. overflow: visible; --> content agar box se bahar ja raha h fir v dikhega.
+                   --->  2. overflow: hidden; --> jo content box se bahar ja raha h wo hide ho jayega, aur scroll karke v nhi dekh sakte.
+                   --->  3. overflow: clip; --> jo content box se bahar ja raha h use cut kar dete h.
+                   --->  4. overflow: scroll; --> box ke under scroll karke sare contents ko dekh sakte h.
+                   --->  5. overflow: auto; --> isme v hm box ke under scroll karke sare contents ko dekh sakte h.
+
+2. Viewport :- Browser ka wo part jo hme dikhayi deta h.
+
+3. flex:1; --> Iska mtlb ye h ki flex container ke under jitne v flex items h, unko to utna space dedo jitna unke 
+               under content h, uske alawe jitna baki spaces h wo flex:1; wale element ko dedo.
+
+4. Root element of html file is <html> and its bydefault font-size is 16 px. which is 1rem.
+
+5. Position fixed se element wahi par fixed ho jayega. 
+6. Position sticky se element tab fixed hoga jab content ko scroll kiya jayega.
+
+7. Appearance in Css :- 
+---> bht sare elements hote h jinhe pahle se pre defined kuchh properties mili hoti h, agar hm un properties
+    ko nhi chahte h to Appearance ka use karenge.
+
+
+8. by default cursor , cursor: default; par hoti h.
